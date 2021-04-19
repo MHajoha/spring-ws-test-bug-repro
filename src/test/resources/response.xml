@@ -1,0 +1,7 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Body>
+    <ExampleResponse>
+      <myData>654321</myData>
+    </ExampleResponse>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
